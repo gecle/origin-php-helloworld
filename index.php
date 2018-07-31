@@ -1,5 +1,5 @@
 <?php
 
-echo "Thank you Andrew!\n;
+echo "Thank you Andrew! :) \n";
 
 ?>
